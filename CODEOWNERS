@@ -1,0 +1,20 @@
+# Default owner
+* @producer@northernstar.studio
+
+# Source code
+/src/ @developer@northernstar.studio
+
+# Design documents
+/docs/gdd/ @designer@northernstar.studio
+
+# Assets
+/assets/ @artist@northernstar.studio
+
+# Tests
+/tests/ @qa@northernstar.studio
+
+# Marketing
+/docs/marketing/ @analyst@northernstar.studio
+
+# Roadmap
+/docs/roadmap/ @producer@northernstar.studio
